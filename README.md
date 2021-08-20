@@ -1,5 +1,4 @@
 ### Hi there hunter95👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter95671)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter95671&show_icons=true&theme=synthwave)
 <!--
 **hunter95671/hunter95671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
