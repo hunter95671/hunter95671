@@ -1,5 +1,5 @@
 ### Hi there hunter95👋
-- 🌱 I’m currently learning Flink and other
+- 🌱 I’m currently learning Flink and Azkaban.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter95671&show_icons=true&theme=synthwave)
 
