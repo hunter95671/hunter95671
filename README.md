@@ -1,5 +1,5 @@
 ### Hi there hunter95👋
-- 🌱 I’m currently learning hadoop,hive,kafka,HBase
+- 🌱 I’m currently learning hadoop,hive,kafka,HBase,zookeeper
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter95671&show_icons=true&theme=synthwave)
 
